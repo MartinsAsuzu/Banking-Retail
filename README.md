@@ -1,6 +1,6 @@
 ﻿# Banking-Retail
-#Optimizing Retail Banking Strategies Through RFM-Based Customer Segmentation
-#Project Overview
+## Optimizing Retail Banking Strategies Through RFM-Based Customer Segmentation
+## Project Overview
 
 This project applies RFM (Recency, Frequency, Monetary) analysis and unsupervised machine learning to segment retail banking customers based on transaction behavior.
 The goal is to help a fictional bank, BankTrust, reduce customer churn, improve personalization, and make marketing efforts more effective using data-driven insights 
@@ -141,3 +141,4 @@ Extend dashboard with KPI tracking and executive summaries
 
 Martins Nnaemeka Asuzu
 Data Science | Analytics | Applied Machine Learning
+
